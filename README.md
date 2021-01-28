@@ -1,1 +1,0 @@
-# C50-is-complete
